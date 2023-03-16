@@ -1,0 +1,1 @@
+# whiky_wiki
