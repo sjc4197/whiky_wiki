@@ -50,20 +50,20 @@ def make_token_freq_dict(token_list):
 
 #맛 데이터 불러오기
 def taste_words():
-    with open('/Users/seojuncheol/Desktop/Whiky_Wiki/word_cloud/taste.txt', 'r') as f:
+    with open('taste.txt', 'r') as f:
         document_n = f.readlines()
         document_n = strip_cr(document_n)
     return document_n
 
 #이미지 마스크 불러오기
-img = Image.open('/Users/seojuncheol/Desktop/Whiky_Wiki/word_cloud/whisky_bottle.png')
+img = Image.open('whisky_bottle.png')
 img_array = np.array(img)
 
 #맛 데이터 불러오기
 taste_words = taste_words()
 
 # 워드클라우드 생성 후 출력
-with open('/Users/seojuncheol/Desktop/Whiky_Wiki/data/whiskey_top1100_info 복사본.csv', 'r') as f:
+with open('whiskey_top1100_info', 'r') as f:
     reader = csv.reader(f)
     header = next(reader) # 헤더 제거
     for row in reader:
@@ -81,7 +81,7 @@ with open('/Users/seojuncheol/Desktop/Whiky_Wiki/data/whiskey_top1100_info 복�
                 word_count[key] += 3
 
         # 워드클라우드 생성 후 저장
-        wc = WordCloud(font_path='/Users/seojuncheol/Desktop/Whiky_Wiki/word_cloud/font/SourceSansPro-Semibold.otf', background_color='white', width=400, height=400, scale=2.0, max_font_size=250, mask=img_array)
+        wc = WordCloud(font_path='SourceSansPro-Semibold.otf', background_color='white', width=400, height=400, scale=2.0, max_font_size=250, mask=img_array)
         gen = wc.generate_from_frequencies(word_count)
         gen.to_file(str(cnt)+"."+name + '.jpg') # 파일명으로 저장
         cnt += 1
