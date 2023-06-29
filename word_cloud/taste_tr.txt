@@ -1,0 +1,212 @@
+acid - 신, 산성의
+acidic - 산성의, 신한
+ammonia - 암모니아, 암모늄 화합물
+apple - 사과
+apricot - 살구
+aroma - 아로마
+aromatic - 향긋한, 아로마가 나는
+ashy - 재같은, 재냄새가 나는
+astringency - 떫은 맛, 수렴작용
+astringent - 떫은, 톡 쏘는
+austere - 담백한, 간결한, 진한
+avocado - 아보카도
+bad - 상한, 썩은
+banana - 바나나
+bitter - 쓴
+bitterness - 쓴 맛, 씁쓸함
+bittersweet - 달콤씁쓸한
+blackberry - 블랙베리
+bland - 싱거운, 자극적이지 않은, 특별히 맛이 안 나는
+blueberry - 블루베리
+burnt - 탄 맛이 나는, 불 산 냄새가 나는
+buttery - 버터 맛이 나는, 부드러운
+candied - 사탕 같은, 달고 부드러운
+caramel - 카라멜
+charred - 숯 탄 맛이 나는, 그을린
+cheesy - 치즈 맛이 나는
+cherry - 체리
+chocolaty - 초콜릿 맛이 나는
+cinnamon - 시나몬
+citrusy - 과일 맛이 나는, 시트러스 향이 나는
+coconut - 코코넛
+complex - 복잡한, 다양한 맛과 향을 가진
+cooked - 익힌, 조리한
+cool - 시원한, 차가운
+creamy - 부드러운, 크림이 많은
+crispy - 바삭한
+crumbly - 바스락거리는, 살짝 부서지는
+crunchy - 바삭바삭한, 아삭아삭한
+dense - 짙은, 단단한, 무거운
+dilicious - 맛있는
+disgusting - 역겨운, 구역질나는
+dry - 건조한
+earthy - 흙맛이 나는, 흙내가 나는
+eggy - 계란 맛이 나는
+fatty - 지방이 많은, 느끼한
+fermented - 발효한, 발효된
+fiery - (입안에 불타듯이) 매운, 얼얼한
+fig - 무화과
+fishy - 생선냄새가 나는, 비린내나는
+flaky - 바삭바삭한, 누룩누룩한
+flavorful - 풍미있는, 맛좋은
+floral - 꽃향기
+fluffy - 부드러운, 푹신한
+fresh - 신선한, 새콤한
+fruity - 과일 맛이 나는, 과일 향이 나는
+gamey - 야생동물 맛이 나는
+garlicky - 마늘 맛이 나는
+gelatinous - 젤리같은, 주물러지는
+gingery - 생강 맛이 나는
+glazed - 글레이즈된, 반죽 위에 유리한 덮개가 된
+grainy - 곡물 같은, 알갱이가 있는
+grape - 포도
+grapefruit - 자몽
+grassy - 풀맛이 나는, 풀향이 나는
+greasy - 기름진, 미끈미끈한
+grilled - 그릴에 구운, 바베큐한
+gross - 역겨운
+hard - 딱딱한
+hickory - 히코리 나무, 히코리 나무 훈제된
+honey - 꿀
+honeyed - 꿀 같은, 달콤한
+hot - 매운
+infused - 향을 불어 넣은, 살짝 우려낸
+insipid - 맛없는, 김빠진
+juicy - 즙이 많은, 물기 많은
+kiwi - 키위
+leather - 가죽
+lemon - 레몬
+light - 담백한, 기름지지 않은
+lime - 라임
+mango - 망고
+mature - 숙성된, 깊은 맛과 향을 가진
+meaty - 육즙이 많은, 고기 맛이 나는
+mellow - 감미로운, 그윽한
+melon - 멜론
+mild - 맛이 부드러운, 담백한, 순한
+mildewy - 곰팡이 냄새가 나는
+minty - 박하맛이 나는
+moist - 촉촉한, 습기를 머금은
+mossy - 이끼 향이 나는, 이끼가 덮인
+mushy - 녹아내린nasty - 역겨운, 메스꺼운
+nutty - 풍미가 풍부한, 견과 맛이 나는
+oily - 기름기 많은, 느끼한
+orange - 오렌지
+peach - 복숭아
+pear - 배
+peaty - 피트
+pepper - 고추
+pineapple - 파인애플
+piquant - 자극적인, 화끈한, 매운
+plain - 밍밍한, 담백한, 양념을 안친
+plum - 자두
+pomegranate - 석류
+puckery - 떫은
+pungent - 톡쏘는, 매우 자극적인, 얼얼한
+raspberry - 라즈베리
+rich - 기름진
+ripe - 익은, 달콤한, 부드러운
+robust - 풍부한 맛, 건강에 좋은, 탄탄한
+rotten - 썩은, 불결한
+salty - 짠, 짭짤한
+salty-sweet - 짭짤하고 달콤한
+savory - 맛좋은, 풍미있는, 향긋한
+savoury - 짭짤한, 짭짜름한
+sharp - 톡 쏘는, 자극적인, 짜릿한
+sizzling - 살짝 구워진, 지글거리는
+smelly - 악취가 나는
+smoky - 연기 맛이 나는, 스모크한
+soft - 부드러운
+soggy - 물에 젖은, 축축한
+soupy - 텁텁한, 걸쭉한
+sour - 신, 시큼한
+sourish - 약간 시큼한
+spiced - 향신료 맛이 나는
+spicy - (양념 때문에)매운, 매콤한, 칼칼한
+spongy - 스폰지같은, 공기가 많은
+stale - 신선하지 않은, 눅눅한, 김빠진, 딱딱해진
+strawberry - 딸기
+sugary - 설탕 맛이 나는, 지나치게 단(부정적)
+sweet - 단, 달콤한
+sweet-sour - 달콤하고 시큼한
+syrupy - 달달한, 끈적거리는
+tangy - 톡 쏘는, 짜릿한, 코를 찌르는
+tangy-sweet - 산뜻하고 달콤한
+tart - 시큼한, 자극적인
+tasteless - 맛이 없는, 맛이 고약한
+tasty - 맛좋은, 풍미있는
+tender - 연한
+tough - 질긴, 잘 씹히지 않는
+umami - 감칠맛, 고소한
+unctuous - 유분이 많은, 부드러운, 고소한
+unsavory - 맛없는
+vanilla - 바닐라
+vinegary - 초같은, 신맛이 나는
+watermelon - 수박
+watery - 묽은, 싱거운
+wood - 나무
+woody - 나무향이 나는
+yucky - 역겨운, 구역질나는, 몹시 맛없는
+zesty - 생기 넘치는, 활기찬, 짜릿한, 상큼한
+Almond - 아몬드
+Basil - 바질
+Cactus - 선인장
+Carrot - 당근
+Chestnut - 밤
+Cilantro - 코리앤더
+Cinnamon - 시나몬
+Clove - 클로브
+Cranberry - 크랜베리
+Date - 대추
+Dragonfruit - 용과
+Elderberry - 엘더베리
+Fennel - 펜넬
+Ginger - 생강
+Grapefruit - 자몽
+Guava - 구아바
+Hazelnut - 개암밤
+Jasmine - 자스민
+Juniper - 구기자
+Lavender - 라벤더
+Lychee - 라이치
+Mango - 망고
+Mulberry - 뽕
+Nutmeg - 겨자씨
+Olive - 올리브
+Papaya - 파파야
+Persimmon - 감
+Quince - 모과
+Rosemary - 로즈마리
+Saffron - 사프란
+Sage - 세이지
+Tangerine - 귤
+Thyme - 타임
+Turmeric - 우꼬불리
+Vanilla - 바닐라
+Walnut - 호두
+Yuzu - 유자
+Anise - 아니스
+Apricot - 살구
+Blackcurrant - 검은색 카시스
+Blueberry - 블루베리
+Cardamom - 카르다몬
+CherryBlossom - 벚꽃
+Clementine - 클레멘타인
+Coconut Milk - 코코넛 밀크
+Coriander - 고수
+Cranberry - 크랜베리
+Grape - 포도
+Hibiscus - 히비스커스
+Honeydew - 한랭 메론
+Jasmine - 자스민
+Kumquat - 금귤
+Lemonade - 레모네이드
+Lime - 라임
+Mandarin - 만다린
+Mint - 민트
+Passionfruit - 패션프루트
+Pine - 소나무
+Raspberry - 라즈베리
+Redcurrant - 빨간색 카시스
+Rose - 장미
+Strawberry - 딸기
